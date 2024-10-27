@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1ifpe2rmywletnc5zwtntrf3tmf5abey4j5hu5ca",
+  "Issue Number": "6",
+  "Client": {
+    "Name": "zhang miao",
+    "Region": "China",
+    "Industry": "Environment",
+    "Website": "http://www.lamost.org/dr8/",
+    "Social Media": "http://www.lamost.org/dr8/",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "The Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST) is a Chinese national scientific research facility operated by the National Astronomical Observatories, Chinese Academy of Sciences. It is a special reflecting Schmidt telescope with 4000 fibers in a field of view of 20 deg2 in the sky. Until July 2019, LAMOST has completed its pilot survey, which was launched in October 2011 and ended in June 2012, and the regular survey of the first seven years, which was initiated on September 2012[1-7]. In this data release, there are totally 10,431,197 low resolution spectra published, which satisfy the selection criteria that the LAMOST LRS General Catalog also used. The data products of this release can be available from the website http://www.lamost.org/dr8/.\r\n\r\nGuoshoujing Telescope (the Large Sky Area Multi-Object Fiber Spectroscopic Telescope LAMOST) is a National Major Scientific Project built by the Chinese Academy of Sciences. Funding for the project has been provided by the National Development and Reform Commission. LAMOST is operated and managed by the National Astronomical Observatories, Chinese Academy of Sciences.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "1. LAMOST Data includes Three Major Types:\r\nType (I):\r\nRaw Data: All original data as well as original provenance information (for example, the observing log files, calibration files, software versions used, etc.), and the batch reduced two-dimensional spectra.\r\nType (II):\r\n1D Spectral Data: One-dimensional spectra of observed objects, reduced through standardized reduction pipelines. Some provenance information is included with the 1D spectra, including the input catalog information, selection criteria and observing information such as exposure time, observation quality, seeing, weather conditions, and so on).\r\nType (III):\r\nCatalog Data: Objective physical quantities with errors, derived from the spectral data and input catalog. The catalog includes the coordinates, magnitudes, radial velocities, effective temperature, surface gravity, elemental abundances, warning flags and so on.",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "http://www.lamost.org/dr8/",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Sporadic",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1.5 to 2 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, Africa, North America, South America, Europe, Australia (continent), Antarctica",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f01518369\r\nf01889668\r\nf03151456\r\nf03179572\r\nf03214937\r\nf03178144\r\nf03178077\r\nf01106668 \r\nf0870558 \r\nf03151449\r\nf03151456\r\nf03229932 \r\nf03229933\r\nf03151449\r\nf1315096 \r\nf03055005 \r\nf03055018 \r\nf03055029",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "18PiB",
+    "Single Size Dataset": "2.5PiB",
+    "Replicas": 7,
+    "Weekly Allocation": "1000TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-10-27 02:10:59.359526312 UTC",
+    "Validated By": "liyunzhi-666",
+    "Active": true,
+    "Updated At": "2024-10-27 02:15:03.569848197 UTC",
+    "Active Request ID": "613d6585-7d64-4e1d-8950-3f40cd3ba60a",
+    "On Chain Address": "f1ifpe2rmywletnc5zwtntrf3tmf5abey4j5hu5ca",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "613d6585-7d64-4e1d-8950-3f40cd3ba60a",
+      "Request Type": "First",
+      "Created At": "2024-10-27 02:10:59.359533421 UTC",
+      "Updated At": "2024-10-27 02:10:59.359534477 UTC",
+      "Active": false,
+      "Allocation Amount": "900TiB",
+      "Signers": [
+        {
+          "Github Username": "liyunzhi-666",
+          "Signing Address": "f12ytronnjfel3otbml2xrycb64pbexvdi5ecysda",
+          "Created At": "2024-10-27 02:15:00.343000000 UTC",
+          "Message CID": "bafy2bzacecmfjbzxm7l2osnonduxpqgu72adw73j2svidkbwk2r35quxw7u2w"
+        }
+      ]
+    }
+  ]
+}
