@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1krtpc244pcdzz5hyet34czekqtfmtih7a7azwui",
+  "Issue Number": "8",
+  "Client": {
+    "Name": "Hangzhou Aiyao Medical Health Technology Co., Ltd.",
+    "Region": "China",
+    "Industry": "Life Science / Healthcare",
+    "Website": "http://www.cbang.io/",
+    "Social Media": "http://www.cbang.io/",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Hangzhou Aiyao Medical Health Technology Co., Ltd (\"Aiyao\") was established in Hangzhou in 2019 by divesting itself from Tencent Group, with Tencent Group still as its controlling shareholder.\r\n\r\nThe company was founded based on the informationization of the medical industry, while focusing on the creation of health education short video content, and gradually transformed into a life entertainment health management ecological builder \"with the core goal of achieving a comfortable and happy healthy life for users\".\r\n\r\nAt present, the company has accumulated a large number of users, and in the future, the company will continue to expand the richness of content in the field of short video, and gradually transform into a full ecological builder in the field of short video.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Short videos or photos of food, pets, scenery and recreational activities created and uploaded by users, the official website is currently in the pre-construction stage, we will continue to improve",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "http://www.cbang.io/",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1.5 to 2 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, Africa, North America, South America, Europe, Australia (continent), Antarctica",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f0870558     \r\nf03055005   \r\nf03055018   \r\nf03055029   \r\nf01518369   \r\nf01889668\r\nf03226688 \r\nf03239692\r\nf03219700\r\nf03219702\r\nf01106668  \r\nf01315096",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "10PiB",
+    "Single Size Dataset": "990TiB",
+    "Replicas": 10,
+    "Weekly Allocation": "1000TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-11-26 09:31:54.147604817 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1krtpc244pcdzz5hyet34czekqtfmtih7a7azwui",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
