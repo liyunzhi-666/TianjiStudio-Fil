@@ -17,13 +17,13 @@
     "Describe the data being stored onto Filecoin": "Released and archived ENCODE data. Regulatory elements are typically investigated through DNA hypersensitivity assays, assays of DNA methylation, and immunoprecipitation (IP) of proteins that interact with DNA and RNA, i.e., modified histones, transcription factors, chromatin regulators, and RNA-binding proteins, followed by sequencing.",
     "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
     "How do you plan to prepare the dataset": "No response",
-    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://registry.opendata.aws/encode-project/\r\n\r\nhttps://www.encodeproject.org",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://registry.opendata.aws/encode-project/\n\nhttps://www.encodeproject.org",
     "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
     "What is the expected retrieval frequency for this data": "Sporadic",
     "For how long do you plan to keep this dataset stored on Filecoin": "1.5 to 2 years",
     "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, Africa, North America, South America, Europe, Australia (continent), Antarctica",
     "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
-    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03151449\r\nf1315096 \r\nf03055005 \r\nf03055018 \r\nf03055029\r\nf01518369\r\nf01889668\r\nf03151456\r\nf03179572\r\nf03214937\r\nf03178144\r\nf03178077\r\nf01106668 \r\nf0870558 \r\nf03151449\r\nf03151456",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "1. f01106668\n2. f01315096\n3. f03055005\n4. f03055018\n5. f03055029\n6. f03151449\n7. f03151456\n8. f03178077\n9. f03178144\n10. f03179570\n11. f03179572\n12. f03214937\n13. f0870558",
     "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
   },
   "Datacap": {
