@@ -35,11 +35,11 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-04-10 08:36:15.860042242 UTC",
+    "State": "Granted",
+    "Validated At": "2025-04-10 08:38:10.327984292 UTC",
     "Validated By": "liyunzhi-666",
     "Active": true,
-    "Updated At": "2025-04-10 08:36:15.860064218 UTC",
+    "Updated At": "2025-04-10 08:38:10.327981109 UTC",
     "Active Request ID": "12a39549-958e-467f-8035-263cf287817b",
     "On Chain Address": "f1ifpe2rmywletnc5zwtntrf3tmf5abey4j5hu5ca",
     "Multisig Address": "false",
@@ -67,9 +67,16 @@
       "Request Type": "Refill",
       "Created At": "2025-04-10 08:36:15.860069626 UTC",
       "Updated At": "2025-04-10 08:36:15.860070639 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "1979120929996800B",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "liyunzhi-666",
+          "Signing Address": "f12ytronnjfel3otbml2xrycb64pbexvdi5ecysda",
+          "Created At": "2025-04-10 08:38:06.921000000 UTC",
+          "Message CID": "bafy2bzaceajdgkxeq4djducu7i43wt44nzkdeungtr3wr7irc47sqkmxzt4eo"
+        }
+      ]
     }
   ]
 }
