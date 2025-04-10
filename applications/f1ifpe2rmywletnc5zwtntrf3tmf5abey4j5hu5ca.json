@@ -35,7 +35,7 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ChangesRequested",
     "Validated At": "2024-10-27 02:10:59.359526312 UTC",
     "Validated By": "liyunzhi-666",
     "Active": true,
@@ -43,7 +43,7 @@
     "Active Request ID": "613d6585-7d64-4e1d-8950-3f40cd3ba60a",
     "On Chain Address": "f1ifpe2rmywletnc5zwtntrf3tmf5abey4j5hu5ca",
     "Multisig Address": "false",
-    "edited": true
+    "edited": false
   },
   "Allocation Requests": [
     {
